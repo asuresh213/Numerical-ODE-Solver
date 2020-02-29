@@ -20,10 +20,10 @@ However, the library also supports higher order ODEs, or ODE systems using
 
 to solve the given IVP.
 
-Progress is to be made on all other methods to systems
+Progress is to be made on implementing all first order other methods to ODE systems
 
 
 In addition, the library also hosts helper functions to create
 1. Plots of solutions
 2. Table of solution values; latex formatted
-3. Analytic solution calculator at sample values, given analytic function. 
+3. Analytic solution calculator at sample values, given analytic function.
